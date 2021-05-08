@@ -1,0 +1,22 @@
+
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+input {
+  margin-bottom: 20px;
+}
+
+li {
+  margin: 2.5px 0;
+}
+
+button {
+  margin-left: 5px;
+}
+
+.banner {
+  border: 1px solid;
+  padding: 10px;
+}
